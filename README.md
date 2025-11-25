@@ -363,7 +363,7 @@ For a detailed breakdown of all available functions for owners and investors, pl
 
 ## 📞 Contact Information
 
-- **Email:** marksantiago0929@gmail.com  
+- **Email:** hideotanaka.jp@gmail.com  
 - **Telegram:** [@hideo0106](https://t.me/hideo0106)  
 - **Discord:** [@hideo0106](https://discord.gg/kSt9q6hR)
 ---
