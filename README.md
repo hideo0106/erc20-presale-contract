@@ -92,8 +92,8 @@ Compatible with major Web3 wallets:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BTC415/ERC20-Token-Presale-Smart-Contract.git
-   cd ERC20-Token-Presale-Smart-Contract
+   git clone https://github.com/hideo0106/erc20-presale-contract.git
+   cd erc20-presale-contract
    ```
 
 2. **Install dependencies**
@@ -349,7 +349,7 @@ Warning: Presale start date is in the past
 
 ## 📋 Smart Contract Functions & Documentation
 
-For a detailed breakdown of all available functions for owners and investors, please refer to our [Function Documentation](https://github.com/hideo0106/ERC20-Token-Presale-smart-contract/blob/master/function_description.md).
+For a detailed breakdown of all available functions for owners and investors, please refer to our [Function Documentation](https://github.com/hideo0106/erc20-presale-contract/blob/master/function_description.md).
 
 ---
 
